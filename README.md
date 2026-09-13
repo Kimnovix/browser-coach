@@ -1,5 +1,7 @@
 # Browser Coach
 
+**Live Demo:** https://kimnovix.github.io/browser-coach
+
 A client-side JavaScript prediction engine that evaluates daily biometric inputs and logs performance history entirely within the browser.
 
 ## Features
